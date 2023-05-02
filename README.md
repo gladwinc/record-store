@@ -18,3 +18,6 @@ To run this website on your local machine, follow these steps:
 1. Clone this repository.
 2. Navigate to the root directory of the repository.
 3. Open the index.html file in your web browser.
+
+## Credits
+This website was built by Gladwin Chan.
