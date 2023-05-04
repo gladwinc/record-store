@@ -1,4 +1,6 @@
 # Record Store Website
+### [Website is live here!](https://verdant-mermaid-245f3f.netlify.app/index.html)
+
 This is a responsive website built with HTML, CSS, and JavaScript for a record shop that sells records and accessories. The website is designed to provide an optimized and intuitive shopping experience for customers across all devices. The website utilizes JavaScript to dynamically generate cards displaying up-to-date product details.
 
 ## Features
