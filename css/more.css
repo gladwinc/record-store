@@ -169,5 +169,22 @@ textarea {
   font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
     Oxygen, Ubuntu, Cantarell, "PT Sans", "Open Sans", "Fira Sans", "Droid Sans",
     "Helvetica Neue", Helvetica, Arial, sans-serif;
-  max-width: 310px;
+}
+
+input[type="text"],
+input[type="email"],
+textarea {
+  width: 100%;
+  box-sizing: border-box;
+  padding: 10px;
+  border: 1px solid #ccc;
+  margin-bottom: 10px;
+}
+
+@media (max-width: 600px) {
+  input[type="text"],
+  input[type="email"],
+  textarea {
+    width: 90%;
+  }
 }
