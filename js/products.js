@@ -6,7 +6,7 @@ window.products = [
     price: 2599,
     discontinued: false,
     categories: ["c1"],
-    imageUrl: "https://upload.wikimedia.org/wikipedia/en/8/83/HNDRXX_cover.jpg"
+    imageUrl: "https://upload.wikimedia.org/wikipedia/en/8/83/HNDRXX_cover.jpg",
   },
   {
     id: "p2",
@@ -15,7 +15,8 @@ window.products = [
     price: 2299,
     discontinued: false,
     categories: ["c1"],
-    imageUrl: "https://upload.wikimedia.org/wikipedia/en/7/79/Drake_-_Certified_Lover_Boy.png"
+    imageUrl:
+      "https://upload.wikimedia.org/wikipedia/en/7/79/Drake_-_Certified_Lover_Boy.png",
   },
   {
     id: "p3",
@@ -24,7 +25,7 @@ window.products = [
     price: 4199,
     discontinued: false,
     categories: ["c1"],
-    imageUrl: "https://upload.wikimedia.org/wikipedia/en/0/07/DripSeason3.jpg"
+    imageUrl: "https://upload.wikimedia.org/wikipedia/en/0/07/DripSeason3.jpg",
   },
   {
     id: "p4",
@@ -34,7 +35,7 @@ window.products = [
     discontinued: false,
     categories: ["c1"],
     imageUrl:
-      "https://upload.wikimedia.org/wikipedia/en/9/94/Drake_and_Future_-_What_a_Time_to_Be_Alive_cover.jpg"
+      "https://upload.wikimedia.org/wikipedia/en/9/94/Drake_and_Future_-_What_a_Time_to_Be_Alive_cover.jpg",
   },
   {
     id: "p5",
@@ -43,7 +44,8 @@ window.products = [
     price: 3399,
     discontinued: false,
     categories: ["c1"],
-    imageUrl: "https://upload.wikimedia.org/wikipedia/en/0/0b/Astroworld_by_Travis_Scott.jpg"
+    imageUrl:
+      "https://upload.wikimedia.org/wikipedia/en/0/0b/Astroworld_by_Travis_Scott.jpg",
   },
   {
     id: "p6",
@@ -52,7 +54,8 @@ window.products = [
     price: 4599,
     discontinued: false,
     categories: ["c1"],
-    imageUrl: "https://upload.wikimedia.org/wikipedia/en/5/5e/Mac_Miller_-_Swimming.png"
+    imageUrl:
+      "https://upload.wikimedia.org/wikipedia/en/5/5e/Mac_Miller_-_Swimming.png",
   },
   {
     id: "p7",
@@ -61,7 +64,8 @@ window.products = [
     price: 3099,
     discontinued: false,
     categories: ["c1"],
-    imageUrl: "https://upload.wikimedia.org/wikipedia/en/7/7d/Freddie_Gibbs_Pi%C3%B1ata.jpg"
+    imageUrl:
+      "https://upload.wikimedia.org/wikipedia/en/7/7d/Freddie_Gibbs_Pi%C3%B1ata.jpg",
   },
   {
     id: "p8",
@@ -71,7 +75,7 @@ window.products = [
     discontinued: false,
     categories: ["c2", "c3"],
     imageUrl:
-      "https://upload.wikimedia.org/wikipedia/en/thumb/b/b9/The_Weeknd_-_Dawn_FM.png/220px-The_Weeknd_-_Dawn_FM.png"
+      "https://upload.wikimedia.org/wikipedia/en/thumb/b/b9/The_Weeknd_-_Dawn_FM.png/220px-The_Weeknd_-_Dawn_FM.png",
   },
   {
     id: "p9",
@@ -80,7 +84,8 @@ window.products = [
     price: 3899,
     discontinued: false,
     categories: ["c2"],
-    imageUrl: "https://media.pitchfork.com/photos/638902d2e5592afa444298b9/1:1/w_600/SZA-SOS.jpg"
+    imageUrl:
+      "https://media.pitchfork.com/photos/638902d2e5592afa444298b9/1:1/w_600/SZA-SOS.jpg",
   },
   {
     id: "p10",
@@ -89,7 +94,8 @@ window.products = [
     price: 4299,
     discontinued: false,
     categories: ["c2"],
-    imageUrl: "https://upload.wikimedia.org/wikipedia/en/9/9c/Partynextdooralbum.jpg"
+    imageUrl:
+      "https://upload.wikimedia.org/wikipedia/en/9/9c/Partynextdooralbum.jpg",
   },
   {
     id: "p11",
@@ -99,7 +105,7 @@ window.products = [
     discontinued: false,
     categories: ["c2", "c3"],
     imageUrl:
-      "https://media.wired.com/photos/5926c9277034dc5f91bec9b3/master/w_2560%2Cc_limit/BlondeAlbum.jpg"
+      "https://media.wired.com/photos/5926c9277034dc5f91bec9b3/master/w_2560%2Cc_limit/BlondeAlbum.jpg",
   },
   {
     id: "p12",
@@ -108,7 +114,8 @@ window.products = [
     price: 1999,
     discontinued: false,
     categories: ["c2"],
-    imageUrl: "https://upload.wikimedia.org/wikipedia/en/9/99/Process_-_Sampha_album.jpg"
+    imageUrl:
+      "https://upload.wikimedia.org/wikipedia/en/9/99/Process_-_Sampha_album.jpg",
   },
   {
     id: "p13",
@@ -118,7 +125,7 @@ window.products = [
     discontinued: false,
     categories: ["c2", "c3"],
     imageUrl:
-      "https://upload.wikimedia.org/wikipedia/en/5/5f/Catch_These_Vibes_%E2%80%93_PnB_Rock.jpg"
+      "https://upload.wikimedia.org/wikipedia/en/5/5f/Catch_These_Vibes_%E2%80%93_PnB_Rock.jpg",
   },
   {
     id: "p14",
@@ -127,7 +134,8 @@ window.products = [
     price: 3099,
     discontinued: false,
     categories: ["c2"],
-    imageUrl: "https://upload.wikimedia.org/wikipedia/en/b/ba/Jorja_Smith_-_Lost_%26_Found.png"
+    imageUrl:
+      "https://upload.wikimedia.org/wikipedia/en/b/ba/Jorja_Smith_-_Lost_%26_Found.png",
   },
   {
     id: "p15",
@@ -136,7 +144,8 @@ window.products = [
     price: 2399,
     discontinued: false,
     categories: ["c2"],
-    imageUrl: "https://upload.wikimedia.org/wikipedia/en/7/72/Bryson_Tiller_-_Anniversary.png"
+    imageUrl:
+      "https://upload.wikimedia.org/wikipedia/en/7/72/Bryson_Tiller_-_Anniversary.png",
   },
   {
     id: "p16",
@@ -146,7 +155,7 @@ window.products = [
     discontinued: false,
     categories: ["c3"],
     imageUrl:
-      "https://upload.wikimedia.org/wikipedia/en/6/60/Coldplay_-_A_Rush_of_Blood_to_the_Head_Cover.png"
+      "https://upload.wikimedia.org/wikipedia/en/6/60/Coldplay_-_A_Rush_of_Blood_to_the_Head_Cover.png",
   },
   {
     id: "p17",
@@ -155,7 +164,8 @@ window.products = [
     price: 1999,
     discontinued: false,
     categories: ["c3"],
-    imageUrl: "https://upload.wikimedia.org/wikipedia/en/1/15/The_Neighbourhood_-_Wiped_Out.jpg"
+    imageUrl:
+      "https://upload.wikimedia.org/wikipedia/en/1/15/The_Neighbourhood_-_Wiped_Out.jpg",
   },
   {
     id: "p18",
@@ -164,7 +174,8 @@ window.products = [
     price: 3099,
     discontinued: false,
     categories: ["c3"],
-    imageUrl: "https://upload.wikimedia.org/wikipedia/en/6/6a/Joji_%E2%80%93_Ballads_1.png"
+    imageUrl:
+      "https://upload.wikimedia.org/wikipedia/en/6/6a/Joji_%E2%80%93_Ballads_1.png",
   },
   {
     id: "p19",
@@ -173,7 +184,8 @@ window.products = [
     price: 3099,
     discontinued: false,
     categories: ["c3"],
-    imageUrl: "https://upload.wikimedia.org/wikipedia/en/a/a7/Random_Access_Memories.jpg"
+    imageUrl:
+      "https://i.scdn.co/image/ab67616d0000b2739b9b36b0e22870b9f542d937",
   },
   {
     id: "p20",
@@ -183,7 +195,7 @@ window.products = [
     discontinued: true,
     categories: ["c3"],
     imageUrl:
-      "https://upload.wikimedia.org/wikipedia/commons/0/0e/Continuum_by_John_Mayer_%282006%29.jpg"
+      "https://upload.wikimedia.org/wikipedia/commons/0/0e/Continuum_by_John_Mayer_%282006%29.jpg",
   },
   {
     id: "p21",
@@ -192,7 +204,8 @@ window.products = [
     price: 3599,
     discontinued: true,
     categories: ["c1"],
-    imageUrl: "https://upload.wikimedia.org/wikipedia/en/a/a3/Kanyewest_collegedropout.jpg"
+    imageUrl:
+      "https://upload.wikimedia.org/wikipedia/en/a/a3/Kanyewest_collegedropout.jpg",
   },
   {
     id: "p22",
@@ -201,7 +214,8 @@ window.products = [
     price: 2599,
     discontinued: true,
     categories: ["c2"],
-    imageUrl: "https://upload.wikimedia.org/wikipedia/en/e/e8/Miguel-Kaleidoscope_Dream.jpg"
+    imageUrl:
+      "https://upload.wikimedia.org/wikipedia/en/e/e8/Miguel-Kaleidoscope_Dream.jpg",
   },
   {
     id: "p23",
@@ -210,7 +224,7 @@ window.products = [
     price: 2799,
     categories: ["c2"],
     imageUrl:
-      "https://upload.wikimedia.org/wikipedia/en/thumb/5/5a/Summer_Walker_-_Over_It.png/220px-Summer_Walker_-_Over_It.png"
+      "https://upload.wikimedia.org/wikipedia/en/thumb/5/5a/Summer_Walker_-_Over_It.png/220px-Summer_Walker_-_Over_It.png",
   },
   {
     id: "p24",
@@ -219,7 +233,8 @@ window.products = [
     price: 2299,
     discontinued: false,
     categories: ["c2"],
-    imageUrl: "https://upload.wikimedia.org/wikipedia/en/3/3c/Giveon_-_Take_Time.png"
+    imageUrl:
+      "https://upload.wikimedia.org/wikipedia/en/3/3c/Giveon_-_Take_Time.png",
   },
   {
     id: "p25",
@@ -229,7 +244,7 @@ window.products = [
     discontinued: false,
     categories: ["c1", "c4"],
     imageUrl:
-      "https://upload.wikimedia.org/wikipedia/en/6/6a/Mike_Will_Made_It_%E2%80%93_Creed_II_The_Album.png"
+      "https://upload.wikimedia.org/wikipedia/en/6/6a/Mike_Will_Made_It_%E2%80%93_Creed_II_The_Album.png",
   },
   {
     id: "p26",
@@ -239,7 +254,7 @@ window.products = [
     discontinued: false,
     categories: ["c4"],
     imageUrl:
-      "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/41B6K76VTBL._UF1000,1000_QL80_.jpg"
+      "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/41B6K76VTBL._UF1000,1000_QL80_.jpg",
   },
   {
     id: "p27",
@@ -248,7 +263,8 @@ window.products = [
     price: 2299,
     discontinued: false,
     categories: ["c1", "c4"],
-    imageUrl: "https://upload.wikimedia.org/wikipedia/en/c/c5/The_Longest_Yard_soundtrack.jpg"
+    imageUrl:
+      "https://upload.wikimedia.org/wikipedia/en/c/c5/The_Longest_Yard_soundtrack.jpg",
   },
   {
     id: "p28",
@@ -258,7 +274,7 @@ window.products = [
     discontinued: true,
     categories: ["c4"],
     imageUrl:
-      "https://upload.wikimedia.org/wikipedia/en/2/2f/Ratatouille_%28Original_Motion_Picture_Soundtrack%29.png"
+      "https://upload.wikimedia.org/wikipedia/en/2/2f/Ratatouille_%28Original_Motion_Picture_Soundtrack%29.png",
   },
   {
     id: "p29",
@@ -268,7 +284,7 @@ window.products = [
     discontinued: false,
     categories: ["c1"],
     imageUrl:
-      "https://www.lahiguera.net/musicalia/artistas/varios/disco/12660/metro_boomin_heroes_&_villains-portada.jpg"
+      "https://media.pitchfork.com/photos/638a00f26bff496656dc0b1c/master/w_1280%2Cc_limit/Metro-Boomin.jpg",
   },
   {
     id: "p30",
@@ -277,7 +293,7 @@ window.products = [
     price: 18599,
     discontinued: false,
     categories: ["c5"],
-    imageUrl: "images_resized/headphones.jpg"
+    imageUrl: "images_resized/headphones.jpg",
   },
   {
     id: "p31",
@@ -286,7 +302,7 @@ window.products = [
     price: 19900,
     discontinued: false,
     categories: ["c5"],
-    imageUrl: "images_resized/record_player.jpg"
+    imageUrl: "images_resized/record_player.jpg",
   },
   {
     id: "p3",
@@ -295,6 +311,6 @@ window.products = [
     price: 25999,
     discontinued: false,
     categories: ["c5"],
-    imageUrl: "images_resized/speaker.jpg"
-  }
+    imageUrl: "images_resized/speaker.jpg",
+  },
 ];
