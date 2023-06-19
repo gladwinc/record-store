@@ -1,0 +1,257 @@
+body {
+  font-family: Arial, sans-serif;
+  background-image: url("/starbackground.jpeg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+h2,
+h3 {
+  text-align: center;
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.2);
+  color: white;
+  font-size: 20px;
+  width: auto;
+  padding: 10px;
+  text-align: center;
+  background: black;
+  box-shadow: 0 0 10px goldenrod;
+  border-radius: 10px;
+  margin: 30px auto;
+}
+
+h1 {
+  max-width: 570px;
+  padding: 10px;
+  text-align: center;
+  background: black;
+  color: white;
+  box-shadow: 0 0 15px pink;
+  border-radius: 10px;
+  margin: 20px auto;
+  font-weight: bold;
+  font-size: 20px;
+}
+
+.card {
+  box-shadow: 0 0 10px lightblue;
+}
+
+.card-title {
+  font-weight: bold;
+}
+
+.card {
+  background-color: black;
+}
+
+.card-text,
+.card-title {
+  color: white;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+.card {
+  margin-bottom: 30px;
+}
+
+.about-me,
+.welcome,
+.reflection {
+  color: #fff;
+  width: auto;
+  height: auto;
+  padding: 20px;
+  background-color: black;
+  box-shadow: 0 0 30px lightblue;
+  color: white;
+  margin: 20px auto;
+  border-radius: 10px;
+}
+
+.reflection {
+  box-shadow: 0 0 30px lightcoral;
+}
+
+.list-container {
+  width: 100%;
+  max-width: 500px;
+  padding: 20px;
+  background-color: black;
+  box-shadow: 0 0 30px goldenrod;
+  color: white;
+  margin: 40px auto;
+  border-radius: 10px;
+}
+
+.list-container ul {
+  list-style: none;
+  padding: 0;
+}
+
+.list-container li {
+  margin-bottom: 20px;
+}
+
+.list-container h2 {
+  margin: 10px;
+  margin-bottom: 20px;
+}
+
+.list-container ol {
+  margin-top: 10px;
+  padding-left: 20px;
+}
+
+nav a {
+  text-decoration: none;
+  color: white;
+  font-weight: bold;
+  padding: 5px 10px;
+  margin: 0 5px;
+}
+
+a:hover {
+  background-color: yellow;
+  color: black;
+}
+
+nav a:hover {
+  background-color: yellow;
+  border-radius: 10px;
+  color: black;
+}
+
+nav {
+  background-color: black;
+  text-align: center;
+  box-shadow: 0 0 20px white;
+  border-radius: 10px;
+  padding: 10px;
+  max-width: 550px;
+  width: auto;
+  margin: 50px auto;
+}
+
+nav .nav-button {
+  text-decoration: none;
+  color: white;
+  font-weight: bold;
+  padding: 5px 10px;
+  margin: 0 5px;
+  background-color: transparent;
+  border: none;
+  cursor: pointer;
+}
+
+nav .nav-button:hover {
+  background-color: yellow;
+  border-radius: 10px;
+  color: black;
+}
+
+nav .nav-button.active {
+  background-color: yellow;
+  border-radius: 10px;
+  color: black;
+}
+
+caption {
+  margin-bottom: 10px;
+  text-align: left;
+  background-color: black;
+  color: orange;
+  padding-left: 10px;
+  font-style: italic;
+  box-shadow: 0 0 50px lightgreen;
+}
+
+.container {
+  color: white;
+  max-width: 750px;
+  width: auto;
+  margin: 40px auto;
+  background-color: black;
+  border-radius: 10px;
+  padding: 20px 90px 20px 90px;
+  box-shadow: 0 0 30px goldenrod;
+}
+
+.container-store {
+  color: white;
+  max-width: 900px;
+  width: auto;
+  margin: 40px auto;
+  background-color: black;
+  border-radius: 10px;
+  padding: 5px 90px 10px 90px;
+  box-shadow: 0 0 30px goldenrod;
+}
+
+.table-container table {
+  margin-top: 2rem;
+  margin-bottom: 2rem;
+  box-shadow: 0 0 50px lightseagreen;
+}
+
+img {
+  box-shadow: 0 0 30px orangered;
+}
+
+.image-container {
+  display: flex;
+  justify-content: center;
+  margin-top: 40px;
+}
+
+.image-container img {
+  width: 170px;
+  height: auto;
+  transition: transform 0.3s ease-in-out;
+  border-radius: 10px;
+  margin-right: 30px;
+}
+
+.image-container img:hover {
+  transform: translateY(-10px);
+}
+
+a {
+  color: white;
+}
+
+.progress-container {
+  width: 300px;
+  padding: 40px;
+  text-align: center;
+  background: black;
+  color: white;
+  box-shadow: 0 0 10px greenyellow;
+  border-radius: 10px;
+  margin: 30px auto;
+  font-size: 30px;
+  font-style: italic;
+}
+
+.form-container {
+  width: 100%;
+  max-width: 700px;
+  border-radius: 15px;
+  background-color: black;
+  padding: 40px 100px 60px 100px;
+  box-shadow: 0 0 30px goldenrod;
+  margin: 40px auto;
+}
+
+.form-container label,
+.form-container button {
+  color: white;
+}

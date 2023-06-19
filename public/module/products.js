@@ -185,7 +185,7 @@ window.products = [
     discontinued: false,
     categories: ["c3"],
     imageUrl:
-      "https://i.scdn.co/image/ab67616d0000b2739b9b36b0e22870b9f542d937",
+      "https://upload.wikimedia.org/wikipedia/en/a/a7/Random_Access_Memories.jpg",
   },
   {
     id: "p20",
@@ -254,7 +254,7 @@ window.products = [
     discontinued: false,
     categories: ["c4"],
     imageUrl:
-      "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/41B6K76VTBL._UF1000,1000_QL80_.jpg",
+      "https://upload.wikimedia.org/wikipedia/en/f/fc/School_of_Rock_Soundtrack.jpg",
   },
   {
     id: "p27",
@@ -284,33 +284,6 @@ window.products = [
     discontinued: false,
     categories: ["c1"],
     imageUrl:
-      "https://media.pitchfork.com/photos/638a00f26bff496656dc0b1c/master/w_1280%2Cc_limit/Metro-Boomin.jpg",
-  },
-  {
-    id: "p30",
-    title: "Headphones",
-    description: "This image was resized using Squoosh.",
-    price: 18599,
-    discontinued: false,
-    categories: ["c5"],
-    imageUrl: "images_resized/headphones.jpg",
-  },
-  {
-    id: "p31",
-    title: "Record Player",
-    description: "This image was resized using Squoosh.",
-    price: 19900,
-    discontinued: false,
-    categories: ["c5"],
-    imageUrl: "images_resized/record_player.jpg",
-  },
-  {
-    id: "p3",
-    title: "Speaker",
-    description: "This image was resized using Squoosh.",
-    price: 25999,
-    discontinued: false,
-    categories: ["c5"],
-    imageUrl: "images_resized/speaker.jpg",
+      "https://upload.wikimedia.org/wikipedia/en/5/5f/Metro_Boomin_-_Heroes_%26_Villains.png",
   },
 ];
