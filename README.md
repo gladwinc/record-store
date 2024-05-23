@@ -1,7 +1,10 @@
 # Record Store Website
-### [Website is live here!](https://misty-cuff-links-pig.cyclic.app)
+### [Website is live here!](https://record-store-bqxx.onrender.com/)
 
 ## Changelog
+
+### [2024-05-23]
+- Redeployed on Render.
 
 ### [2023-06-19]
 - Migrated to a dynamic web application using Node.js and Express.js for enhanced functionality.
